@@ -1,6 +1,6 @@
 # Instalación de IntelliJ IDEA
 
-Durante el curso, utilizaremos el IDE IntelliJ IDEA, desarrollado por JetBrains, una empresa reconocida por sus IDEs y por ser la creadora y mantenedora de Kotlin, un lenguaje derivado de Java.
+Utilizaremos el IDE IntelliJ IDEA, desarrollado por JetBrains, una empresa reconocida por sus IDEs y por ser la creadora y mantenedora de Kotlin, un lenguaje derivado de Java.
 
 ## Descarga
 
