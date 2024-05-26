@@ -8,7 +8,7 @@ Cuando se trabaja con Java, hay una variedad de opciones disponibles para elegir
 
 [Visual Studio Code](https://code.visualstudio.com/) (VS Code) es un editor de código gratuito y de código abierto desarrollado por Microsoft. Es altamente personalizable y admite una amplia gama de extensiones que pueden mejorar tu flujo de trabajo de desarrollo.
 
-![Logo Visual Code](img/visual_code.png)
+![Logo Visual Code](/img/visual_code.png)
 
 ### Sublime Text
 
