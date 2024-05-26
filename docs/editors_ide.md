@@ -8,15 +8,19 @@ Cuando se trabaja con Java, hay una variedad de opciones disponibles para elegir
 
 [Visual Studio Code](https://code.visualstudio.com/) (VS Code) es un editor de código gratuito y de código abierto desarrollado por Microsoft. Es altamente personalizable y admite una amplia gama de extensiones que pueden mejorar tu flujo de trabajo de desarrollo.
 
-![Logo Visual Code](/img/visual_code.png)
+![Logo Visual Studio Code](/img/visual_code.png)
 
 ### Sublime Text
 
 [Sublime Text](https://www.sublimetext.com/) es un editor de código ligero y altamente personalizable que es popular entre los desarrolladores por su velocidad y facilidad de uso. Aunque es un software de pago, ofrece una versión de evaluación gratuita.
 
+![Logo Sublime Text](/img/sublime_text.png)
+
 ### Atom
 
 [Atom](https://atom.io/) es otro editor de código de código abierto desarrollado por GitHub. Es altamente personalizable y tiene una amplia comunidad que desarrolla y mantiene una variedad de complementos y temas.
+
+![Logo Atom](/img/atom.png)
 
 ## Entornos de Desarrollo Integrados (IDEs)
 
@@ -24,13 +28,19 @@ Cuando se trabaja con Java, hay una variedad de opciones disponibles para elegir
 
 [IntelliJ IDEA](https://www.jetbrains.com/idea/) es uno de los IDEs más populares para el desarrollo de Java. Ofrece una amplia gama de características y herramientas avanzadas para facilitar el desarrollo de aplicaciones Java, incluyendo soporte para tecnologías como Spring, Maven y Gradle.
 
+![Logo Intellij IDEA](/img/intellij_idea.png)
+
 ### Eclipse
 
 [Eclipse](https://www.eclipse.org/) es otro IDE popular y de código abierto que es ampliamente utilizado para el desarrollo de Java, así como para una variedad de otros lenguajes de programación. Eclipse cuenta con una gran cantidad de extensiones y plugins que pueden ampliar su funcionalidad.
 
+![Logo Eclipse IDEA](/img/eclipse_idea.png)
+
 ### NetBeans
 
 [NetBeans](https://netbeans.apache.org/) es un IDE de código abierto y gratuito que es conocido por su facilidad de uso y su conjunto de características bien integradas. Es especialmente popular entre los principiantes debido a su interfaz de usuario intuitiva.
+
+![Logo NetBeans](/img/netbeans_idea.png)
 
 ## Elección del Editor o IDE
 
