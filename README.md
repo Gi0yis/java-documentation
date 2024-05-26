@@ -4,7 +4,7 @@
 
 Este repositorio contiene una serie de documentos breves que resumen los temas cubiertos en nuestras clases de Java. Estos materiales están diseñados para ayudar a los estudiantes a repasar y reforzar lo aprendido en clase, así como para proporcionar un recurso rápido de referencia sobre programación en Java.
 
-## Estructura del Repositorio
+<!-- ## Estructura del Repositorio
 
 - **Introducción a Java**: Conceptos básicos y estructuras fundamentales en Java.
 - **Programación Orientada a Objetos**: Principios y conceptos de POO aplicados en Java.
@@ -13,7 +13,7 @@ Este repositorio contiene una serie de documentos breves que resumen los temas c
 - **Colecciones**: Uso de listas, conjuntos y mapas en Java.
 - **Entrada y Salida (E/S)**: Lectura y escritura de datos en Java.
 - **Programación Multihilo**: Conceptos básicos de concurrencia en Java.
-- **Aplicaciones Gráficas con Swing**: Creación de interfaces gráficas de usuario en Java.
+- **Aplicaciones Gráficas con Swing**: Creación de interfaces gráficas de usuario en Java. -->
 
 ## Contenido
 
@@ -21,10 +21,18 @@ Este repositorio contiene una serie de documentos breves que resumen los temas c
 - [Configuración](docs/setup.md)
 - [Conceptos Básicos](docs/basics/)
   - [Editores de Código y IDEs](docs/basics/editors_ide.md)
-  - [](docs/basics/)
-  - [](docs/basics/)
-- [Conceptos Avanzados](docs/advanced/)
+  - [Instalación de IntelliJ IDEA](docs/basics/instalacion_intellij.md)
+  - [Operadores en Java](docs/basics/operators.md)
+  - [Convenciones de Codificación en Java](docs/basics/coding_conventions.md)
+  - [Tipos de Datos Primitivos en Java](docs/basics/primitive_data_types.md)
+  - [Comentarios en Java](docs/basics/comments_in_java.md)
+  - [Strings y Bloques de Texto en Java](docs/basics/strings_and_text_blocks.md)
+  - [Formato de Textos en Java](docs/basics/text_formatting_in_java.md)
+  - [Casting en Java](docs/basics/casting_in_java.md)
+  - [El switch en Java](docs/basics/SwitchInJava.md)
+  - [Clase Scanner en Java](docs/basics/JavaScannerGuide.md)
+<!-- - [Conceptos Avanzados](docs/advanced/)
   - [Generics](docs/advanced/)
   - [Streams](docs/advanced/)
   - [Concurrency](docs/advanced/)
-- [Ejemplos](docs/examples/)
+- [Ejemplos](docs/examples/) -->
