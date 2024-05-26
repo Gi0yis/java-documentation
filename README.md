@@ -14,16 +14,17 @@ Este repositorio contiene una serie de documentos breves que resumen los temas c
 - **Entrada y Salida (E/S)**: Lectura y escritura de datos en Java.
 - **Programación Multihilo**: Conceptos básicos de concurrencia en Java.
 - **Aplicaciones Gráficas con Swing**: Creación de interfaces gráficas de usuario en Java.
-- **Desarrollo Web con Servlets y JSP**: Introducción al desarrollo web utilizando Java EE.
 
-## Cómo Usar Este Repositorio
+## Contenido
 
-Cada documento está organizado de manera clara y concisa, con explicaciones, ejemplos de código y ejercicios para ayudar en la comprensión. Los estudiantes pueden navegar fácilmente por las carpetas para encontrar el tema específico que deseen revisar.
-
-## Contribuciones
-
-¡Las contribuciones son bienvenidas! Si tienes alguna sugerencia de mejora, corrección de errores o deseas agregar contenido adicional, siéntete libre de hacerlo a través de solicitudes de extracción (pull requests). Trabajemos juntos para hacer que estos recursos sean aún más útiles y completos.
-
-## Contacto
-
-Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en contactarme a través de correo electrónico: [giova_yis@outlook.com](mailto:giova_yis@outlook.com).
+- [Introducción](docs/introduction.md)
+- [Configuración](docs/setup.md)
+- [Conceptos Básicos](docs/basics/)
+  - [](docs/basics/)
+  - [](docs/basics/)
+  - [](docs/basics/)
+- [Conceptos Avanzados](docs/advanced/)
+  - [Generics](docs/advanced/)
+  - [Streams](docs/advanced/)
+  - [Concurrency](docs/advanced/)
+- [Ejemplos](docs/examples/)
