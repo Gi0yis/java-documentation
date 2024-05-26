@@ -21,7 +21,7 @@ Este repositorio contiene una serie de documentos breves que resumen los temas c
 - [Configuración](docs/setup.md)
 - [Editores de Código y IDEs](docs/editors_ide.md)
 - [Instalación de IntelliJ IDEA](docs/instalacion_intellij.md)
-- [Conceptos Básicos](docs/basics/)
+- Conceptos Básicos
   - [Operadores en Java](docs/basics/operators.md)
   - [Convenciones de Codificación en Java](docs/basics/coding_conventions.md)
   - [Tipos de Datos Primitivos en Java](docs/basics/primitive_data_types.md)

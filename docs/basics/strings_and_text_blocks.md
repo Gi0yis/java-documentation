@@ -7,19 +7,19 @@ En Java, la clase `String` es una de las más importantes y utilizadas. Esta cla
 Para crear una `String` en Java, simplemente se utilizan comillas dobles para delimitar el texto. Por ejemplo:
 
 ```java
-String nombre = "Alura";
+String nombre = "Juan";
 ```
 
-En este ejemplo, la variable nombre recibe una String con el texto "Alura". Es posible concatenar dos o más Strings utilizando el operador +, por ejemplo:
+En este ejemplo, la variable nombre recibe una String con el texto "Juan". Es posible concatenar dos o más Strings utilizando el operador +, por ejemplo:
 
 ```java
 
 String saludo = "Hola, ";
-String nombre = "Alura";
+String nombre = "Juan";
 String mensaje = saludo + nombre + "!";
 ```
 
-En este caso, la variable mensaje recibirá la cadena "¡Hola, Alura!".
+En este caso, la variable mensaje recibirá la cadena "¡Hola, Juan!".
 Comparación de Strings
 
 En Java, es posible comparar dos Strings utilizando el operador ==. Sin embargo, este operador solo verifica si las dos variables apuntan al mismo objeto en la memoria, no si el contenido de las Strings es igual. Para comparar el contenido de dos Strings, es necesario utilizar el método equals(). Por ejemplo:
@@ -36,7 +36,7 @@ if (contrasena.equals("12345")) {
 
 En este caso, el método equals() se utiliza para comparar el contenido de la variable contrasena con la cadena "12345". Si las dos cadenas son iguales, se imprimirá el mensaje "¡Acceso autorizado!", de lo contrario, se imprimirá el mensaje "Contraseña incorrecta".
 
-Más adelante, también trabajaremos con el método equalsIgnoreCase(), que se utiliza para que la comparación de Strings no distinga entre mayúsculas y minúsculas. Utilizando solo equals, las cadenas "alura" y "Alura" se considerarían diferentes.
+Más adelante, también trabajaremos con el método equalsIgnoreCase(), que se utiliza para que la comparación de Strings no distinga entre mayúsculas y minúsculas. Utilizando solo equals, las cadenas "alura" y "Juan" se considerarían diferentes.
 Bloque de Texto
 
 Introducido en la versión 15 de Java, el bloque de texto (Text Block) es una nueva forma de representar cadenas que facilita la escritura de textos con múltiples líneas. En lugar de utilizar comillas dobles para delimitar el texto e insertar saltos de línea manualmente o utilizar concatenaciones, es posible utilizar una sintaxis más sencilla que permite insertar el texto exactamente como es.
