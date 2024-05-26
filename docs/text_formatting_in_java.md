@@ -28,23 +28,28 @@ Este ejemplo de String.format también se puede usar con un bloque de texto (Tex
 Aquí tienes un ejemplo:
 
 ```java
-String nombre = “Juan”;
-int aulas = 4;
 
-String mensaje= """
+String nombre = "Ana";
+int proyectos = 3;
+
+String mensaje = """
                   Hola, %s!
-                  Bienvenido al curso de Java.
-                  Tendremos %d aulas para mostrarte lo que es necesario para que puedas dar tu primeros pasos en este lenguaje                  """.formatted(nombre, aulas);
+                  Estamos encantados de tenerte en nuestro programa de desarrollo de software.
+                  Durante este curso, trabajarás en %d proyectos emocionantes que te ayudarán a mejorar tus habilidades.
+                  ¡Esperamos que disfrutes y aprendas mucho!
+                  """.formatted(nombre, proyectos);
 
 System.out.println(mensaje);
 ```
 
-COPIA EL CÓDIGO
-El resultado impreso en la consola será:
+### El resultado impreso en la consola será:
 
 ```css
 
-Hola, Juan! Bienvenido al curso de Java.
+Hola, Ana!
+Estamos encantados de tenerte en nuestro programa de desarrollo de software.
+Durante este curso, trabajarás en 3 proyectos emocionantes que te ayudarán a mejorar tus habilidades.
+¡Esperamos que disfrutes y aprendas mucho!
 ```
 
 ## 2. Uso de System.out.printf()
