@@ -1,6 +1,8 @@
 # Formato de Textos en Java
 
-En Java, el formato de textos se puede realizar utilizando varias técnicas y clases que ofrecen diferentes niveles de control y flexibilidad. Aquí te muestro algunas de las formas más comunes de formatear textos en Java:
+En Java, el formato de textos se puede realizar utilizando varias técnicas y clases que ofrecen diferentes niveles de control y flexibilidad.
+
+Una de las formas más comunes de formatear textos en Java es utilizando el método format() de la clase String. Este método permite formatear un texto utilizando marcadores de posición (placeholders), que se representan con el carácter % seguido de una letra que indica el tipo de dato que se insertará en el marcador de posición. Por ejemplo, %s indica que se insertará una cadena en el marcador de posición, %d indica un valor entero y %f indica un valor decimal.
 
 ## 1. Uso de `String.format()`
 
@@ -21,6 +23,30 @@ System.out.println(mensaje);
 
 Mi nombre es Juan y tengo 25 años.
 ```
+Este ejemplo de String.format también se puede usar con un bloque de texto (Text Block), donde se utiliza el método que mencioné en clase, formatted, para indicar las variables que se deben utilizar en lugar de los marcadores de posición.
+
+Aquí tienes un ejemplo:
+
+```java
+String nombre = “Juan”;
+int aulas = 4;
+
+String mensaje= """
+                  Hola, %s!
+                  Bienvenido al curso de Java.
+                  Tendremos %d aulas para mostrarte lo que es necesario para que puedas dar tu primeros pasos en este lenguaje                  """.formatted(nombre, aulas);
+
+System.out.println(mensaje);
+```
+
+COPIA EL CÓDIGO
+El resultado impreso en la consola será:
+
+```css
+
+Hola, Juan! Bienvenido al curso de Java.
+```
+
 ## 2. Uso de System.out.printf()
 
 El método System.out.printf() funciona de manera similar a String.format(), pero imprime directamente la cadena formateada en lugar de devolverla.
