@@ -54,7 +54,7 @@ En este ejemplo, el valor de byte se convierte implícitamente a int, y el valor
 ## Consideraciones Importantes
 
     - Pérdida de Datos: Al realizar el casting de un tipo más grande a uno más pequeño, es posible perder información, especialmente en el caso de números decimales y enteros.
-    -  Seguridad en Tiempo de Ejecución: Siempre verifica la compatibilidad de tipos antes de realizar el downcasting usando instanceof para evitar excepciones.
+    - Seguridad en Tiempo de Ejecución: Siempre verifica la compatibilidad de tipos antes de realizar el downcasting usando instanceof para evitar excepciones.
 
 El casting es una herramienta poderosa en Java, pero debe usarse con cuidado para evitar errores y pérdidas de datos.
 
