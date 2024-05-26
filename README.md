@@ -20,7 +20,7 @@ Este repositorio contiene una serie de documentos breves que resumen los temas c
 - [Introducción](docs/introduction.md)
 - [Configuración](docs/setup.md)
 - [Conceptos Básicos](docs/basics/)
-  - [](docs/basics/)
+  - [Editores de Código y IDEs](docs/basics/editors_ide.md)
   - [](docs/basics/)
   - [](docs/basics/)
 - [Conceptos Avanzados](docs/advanced/)
