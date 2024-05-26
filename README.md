@@ -31,7 +31,8 @@ Este repositorio contiene una serie de documentos breves que resumen los temas c
   - [Casting en Java](docs/basics/casting_in_java.md)
   - [El switch en Java](docs/basics/SwitchInJava.md)
   - [Clase Scanner en Java](docs/basics/JavaScannerGuide.md)
-<!-- - [Conceptos Avanzados](docs/advanced/)
+
+<!-- [Conceptos Avanzados](docs/advanced/)
   - [Generics](docs/advanced/)
   - [Streams](docs/advanced/)
   - [Concurrency](docs/advanced/)

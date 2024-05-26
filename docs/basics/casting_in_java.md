@@ -91,3 +91,13 @@ double doble = entero; // Conversión implícita de int a double
 
 System.out.println(doble); // Salida: 100.0
 ```
+| Para:  |  byte  |  short  |  char  |  int  | long   |  float  | double |
+|--------|--------|---------|--------|-------|--------|---------|--------|
+| De:    |
+| byte   |  ----  |  Impl.  | (char) | impl. | impl.  |  impl.  | impl.  |
+| short  | (byte) |  ----   | (char) | impl. | impl.  |  impl.  | impl.  |
+| char   | (byte) | (short) |  ----  | impl. | impl.  |  impl.  | impl.  |
+| int    | (byte) | (short) | (char) | ----  | impl.  |  impl.  | impl.  |
+| long   | (byte) | (short) | (char) | (int) |  ----  |  impl.  | impl.  |
+| float  | (byte) | (short) | (char) | (int) | (long) |  ----   | impl.  |
+| double | (byte) | (short) | (char) | (int) | (long) | (float) |  ----  |
